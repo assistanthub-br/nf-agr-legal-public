@@ -273,10 +273,6 @@ isso ocorrer.
 Nosso site (`nf.agr.br`) e aplicação usam cookies e tecnologias similares para
 funcionamento, autenticação, e análise de uso.
 
-`[NOTA INTERNA: seção a ser desenvolvida junto com a implementação do banner
-de consentimento. Por ora, mantemos apenas esta menção mínima. Política de
-cookies dedicada será publicada no mesmo repositório.]`
-
 ---
 
 ## 12. Crianças e adolescentes
